@@ -9,7 +9,7 @@ A GUI for [Boot2vWii](https://github.com/WiiDatabase/Boot2vWii) written in Java.
 
 # Installation
 1. Download [Boot2vWii](https://github.com/WiiDatabase/Boot2vWii)
-2. Download the lastest release of [Boot2vWiiGUI]()
+2. Download the lastest release of [Boot2vWiiGUI](https://github.com/Kramerev3axr/Boot2vWiiGUI/releases)
 3. Extract the contents of Boot2vWiiGUI into the root folder of Boot2vWii
 4. Set 'path.txt' to the path of your Msys2 installation. It should be formated as
 `path_to_installation/msys2.exe`
