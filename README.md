@@ -2,7 +2,7 @@
 A GUI for [Boot2vWii](https://github.com/WiiDatabase/Boot2vWii) written in Java. I do not take credit for the original program, just this GUI.
 
 # Prerequisites
-- Java
+- Java 17+
 - Msys2
   - Ensure that [make](https://packages.msys2.org/package/make) is installed
   - Ensure that [devkitPro](https://devkitpro.org/wiki/Getting_Started), [wut](https://github.com/devkitPro/wut), and [wut-tools](https://github.com/devkitPro/wut-tools) is also installed
