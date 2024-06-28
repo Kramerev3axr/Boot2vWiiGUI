@@ -30,7 +30,7 @@ For assets, make a sub folder in the `assets` folder, and name it whatever.
 Within that subfolder, you can put `icon.png`, `tv.png`, and `drc.png` for the gui to recognize and package. 
 ![Example Sub Folder](https://i.imgur.com/tEQmEAW.png)
 
-You **do not** need to have all 3 in there, you can have whatever combination you want (or none) and the program will ommit the assets not included accordingly.
+You **do not** need to have all 3 in there, you can have whatever combination you want (or none) and the program will omit the assets not included accordingly.
 
 After adding assets, open the program and choose from the drop down list which Image Pack you want to use.
 ![Drop Down](https://imgur.com/aoTI8u7.png)
